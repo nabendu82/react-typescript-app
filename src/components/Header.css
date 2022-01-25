@@ -1,0 +1,16 @@
+.navbar{
+    background-color: rgb(47, 45, 45);
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 60px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: white;
+}
+
+.navbar h3{
+    margin-left: 20px;
+}
